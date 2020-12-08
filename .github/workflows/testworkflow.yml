@@ -1,4 +1,4 @@
-name: testworkflow
+name: testworkflow-pwd
 on:
   workflow_dispatch:
     inputs:

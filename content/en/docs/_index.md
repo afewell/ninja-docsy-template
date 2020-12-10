@@ -10,6 +10,8 @@ menu:
 
 ## Welcome to the vSphere with Tanzu 101 Course!
 
+Test 1152
+
 ## [Click Here to Proceed to the Course Introduction Section](courseintroduction/)
 
 
